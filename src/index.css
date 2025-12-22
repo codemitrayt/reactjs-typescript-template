@@ -121,3 +121,12 @@
     @apply bg-background text-foreground;
   }
 }
+
+@keyframes shrink {
+  0% {
+    width: 100%;
+  }
+  100% {
+    width: 0%;
+  }
+}
