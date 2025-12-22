@@ -10,3 +10,5 @@ export {
   UserRoles,
   PricingModel,
 } from './shared/user';
+
+export { type APIRequestMethodType } from './shared/api-request';
